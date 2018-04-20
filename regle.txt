@@ -1,0 +1,14 @@
+10x10 -> [A-J][1-10]
+
+1 -> 5 cases
+
+2 -> 4 cases
+
+3 -> 3 cases
+
+4 -> 2 cases
+
+T : touché
+C : coulé
+R : raté
+G : gagné
